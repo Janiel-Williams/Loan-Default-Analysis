@@ -34,4 +34,13 @@ I also created visualizations to explore the patterns in the data, including:
 - `loan_default_analysis.py` — Python code used for the analysis  
 - `loan_default_analysis_report.docx` — full written analysis report  
 - `loan_duration_boxplot.png` — boxplot visualization  
+
 - `default_rate_by_checking_status.png` — bar chart visualization
+
+## Visualizations
+
+### Loan Duration vs Loan Outcome
+![Loan Duration Boxplot](loan_duration_boxplot.png)
+
+### Default Rate by Checking Account Status
+![Default Rate by Checking Status](default_rate_by_checking_status.png)
